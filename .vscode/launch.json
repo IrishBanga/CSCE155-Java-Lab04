@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RevGuessingGame",
+            "request": "launch",
+            "mainClass": "unl.soc.RevGuessingGame",
+            "projectName": "CSCE155-Java-Lab04"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercises",
+            "request": "launch",
+            "mainClass": "unl.soc.Exercises",
+            "args": "10",
+            "projectName": "CSCE155-Java-Lab04"
+        },
+        {
+            "type": "java",
+            "name": "GuessingGame",
+            "request": "launch",
+            "mainClass": "unl.soc.GuessingGame",
+            "projectName": "CSCE155-Java-Lab04"
+        },
+        {
+            "type": "java",
+            "name": "MultTable",
+            "request": "launch",
+            "mainClass": "unl.soc.MultTable",
+            "args": "10",
+            "projectName": "CSCE155-Java-Lab04"
+        }
+    ]
+}
